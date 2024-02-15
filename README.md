@@ -13,4 +13,4 @@
 (04) The @JoinColumn annotation in hibernate is used to specify the mapping of a foreign key column in a relationship between two entities.
 
 <h3>@GeneratedValues</h3>
-(05) to automatically genarate primary key values.
+(05) To automatically genarate primary key values.
